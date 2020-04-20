@@ -1,0 +1,19 @@
+{
+  "name": "kargale-player-screen-helper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimasumskoy/kargale-player-screen-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimasumskoy/kargale-player-screen-helper/issues"
+  },
+  "homepage": "https://github.com/dimasumskoy/kargale-player-screen-helper#readme"
+}
